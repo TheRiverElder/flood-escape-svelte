@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0"
-  }
+  },
+  "homepage": "."
 }
